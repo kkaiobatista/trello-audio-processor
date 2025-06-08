@@ -1,0 +1,15 @@
+{
+  "name": "trello-audio-processor",
+  "version": "1.0.0",
+  "description": "Audio processing function for Trello to SoundCloud automation",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "test": "echo 'No tests specified'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["trello", "soundcloud", "automation", "audio"],
+  "author": "Your Name",
+  "license": "MIT"
+}
